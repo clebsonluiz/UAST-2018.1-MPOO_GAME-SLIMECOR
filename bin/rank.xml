@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+  <Ranking>
+    <tempo>43</tempo>
+    <nome>PROERD</nome>
+    <vidas>3</vidas>
+  </Ranking>
+  <Ranking>
+    <tempo>45</tempo>
+    <nome>CLEBSON</nome>
+    <vidas>3</vidas>
+  </Ranking>
+  <Ranking>
+    <tempo>69</tempo>
+    <nome>CLEBSON</nome>
+    <vidas>2</vidas>
+  </Ranking>
+  <Ranking>
+    <tempo>79</tempo>
+    <nome>CLEBSON</nome>
+    <vidas>3</vidas>
+  </Ranking>
+  <Ranking>
+    <tempo>81</tempo>
+    <nome>PROERD</nome>
+    <vidas>3</vidas>
+  </Ranking>
+</list>

@@ -1,0 +1,33 @@
+Clébson Luiz de Moraes Silva
+
+NOTA DE ALTERAÇÕES PARA 3ª V.A. DE MPOO
+
+	NO CÓDIGO:
+	
+		Mudanças nas seguintes classes:
+	
+	
+			Triviais podendo ser ignoradas:
+			
+				Sprite.java
+				Personagem.java
+				Controlador.java
+			
+			De Correção de Bugs.
+				XML.java
+				ControladorControles.java
+
+
+	MUDANÇAS FORA DO CÓDIGO:
+
+		Foi notado que o aquivo Proerd_em_8_Bits.wav era demasiado
+		grande (uns 15 MB), e que estava ocorrendo lentidão no game 
+		ao reproduzi-lo. Logo foi reduzido Seu tamanho pela metade
+		(Não compressão, e sim cortando parte da musica) para se 
+		enquadrar com os outros audios. 
+		
+		Também Mudei os tamanhos dos inventarios, eles estavam
+		com 20 pixels a mais do necessário fazendo a borda de 
+		baixo não aparecer. Foi reduzido (Cortado com o Gimp) 
+		o restante desnecessário.
+
